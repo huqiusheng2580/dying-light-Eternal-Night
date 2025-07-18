@@ -2,7 +2,7 @@
 
 你可以通过以下链接访问《永恒之夜》的项目介绍网站，了解更多详细信息：[永恒之夜项目介绍](https://huqiusheng2580.github.io/dying-light-Eternal-Night/)
 
-你可以通过以下链接访问《永恒之夜》的项目更新日志，了解更多详细信息：[永恒之夜项目介绍](https://huqiusheng2580.github.io/dying-light-Eternal-Night/html/changelog.html)
+你可以通过以下链接访问《永恒之夜》的项目更新日志，了解更多详细信息：[永恒之夜更新日志](https://huqiusheng2580.github.io/dying-light-Eternal-Night/html/changelog.html)
 
 # 永恒之夜
 
